@@ -1,6 +1,6 @@
-//Claras y oscuras
+//413 - Claras y oscuras
 import java.util.Scanner;
-public class Losas{
+public class ClarasOscuras{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int ncasos, amplada, altura, total, fosc, clar;
