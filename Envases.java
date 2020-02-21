@@ -1,5 +1,6 @@
+//532 - Reduciendo envases
 import java.util.Scanner;
-public class Exercici1{
+public class Envases{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int nCasos, i, pesoNeto, pesoTotal, peso;
