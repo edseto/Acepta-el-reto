@@ -1,3 +1,4 @@
+//474 - Tu amigable vecino
 import java.util.Scanner;
 public class Spiderman{
     public static void main(String[] args) {
