@@ -1,5 +1,6 @@
+//164 - Área de un rectángulo
 import java.util.Scanner;
-public class AreaRectangle{
+public class AreaRectangulo{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int horitzontal1, horitzontal2, vertical1, vertical2; 
