@@ -1,7 +1,8 @@
+//Número HyperPar
 import java.util.Scanner;
-public class Parell{
+public class NumHyperPar{
     public static int Comprovar(int numero){
-        int parell = 1; //0 parell 1 imparell
+        int parell = 1; //0 par 1 impar
         
         if(numero<10){
             if(numero%2==0){
