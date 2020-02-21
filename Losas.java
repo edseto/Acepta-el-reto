@@ -1,3 +1,4 @@
+//Claras y oscuras
 import java.util.Scanner;
 public class Losas{
     public static void main(String[] args) {
