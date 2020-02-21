@@ -3,8 +3,10 @@ public class Nochevieja{
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int hora, minuts, minutsTotal, mitjanit = 24*60, tempsRestant;
-        sc.useDelimiter(":|\\s+"); 
-        //Per delimitar a l'hora d'agafar el temps, és a dir agafarà fins els ':'
+        sc.useDelimiter(":|\\s+");
+        /* Para delimitar a la hora de coger el tiempo, és decir escaneará hasta ':'
+        Así puedo leer en formato hh:mm
+        */
         do {
             hora = sc.nextInt();
             minuts = sc.nextInt();
