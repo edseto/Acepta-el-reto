@@ -1,3 +1,4 @@
+//123 - Conjugar verbos
 import java.util.Scanner;
 public class ConjugarVerbos{
     public static void Presente(String paraula, String[] conjugado){
